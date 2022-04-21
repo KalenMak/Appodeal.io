@@ -1,1 +1,6 @@
-## Welcome to LRTteam! Project Boxing Club
+### Welcome to LRTteam! 
+Current project: Boxing Club
+
+
+##Our developers: 
+(https://vk.com/goskaev)
