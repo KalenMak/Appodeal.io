@@ -2,5 +2,5 @@
 Current project: Boxing Club
 
 
-##Our developers: 
+## Our developers: 
 [Goskaev Mikhail Game developer](https://vk.com/goskaev)
